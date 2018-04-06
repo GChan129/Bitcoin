@@ -113,6 +113,11 @@
 }
 
 
+
+.home-link {
+    background-color: #FFE5B4;
+}
+
 /*---------------------------- FOOTER --------------*/
 
 .footer-styles {
@@ -130,6 +135,13 @@
     font-size: 40pt;
     padding-right: .5em;
 }
+
+
+.no-hover:hover {
+    transition: 0;
+}
+
+
 
 @media only screen and (max-width: 768px) {
     
